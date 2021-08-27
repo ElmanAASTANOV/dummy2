@@ -1,0 +1,14 @@
+body,html{
+    height: 100%;
+    margin: 0;
+    background-color: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    
+}
